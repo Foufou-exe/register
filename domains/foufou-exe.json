@@ -1,0 +1,11 @@
+{
+  "description": "Foufou-exe's personal website",
+  "repo": "https://github.com/Foufou-exe/foufou-exe.github.io",
+  "owner": {
+    "username": "Foufou-exe",
+    "email": "thibaut.maurras34@gmail.com",
+  },
+  "record": {
+    "CNAME": "foufou-exe.github.io"
+  }
+}
